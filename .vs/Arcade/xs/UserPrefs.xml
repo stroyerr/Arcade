@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{461C21C9-1C9C-B8A3-1CAA-6008983DC1B4}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/playerCollision.cs">
+    <Files>
+      <File FileName="Assets/scripts/GameManager.cs" Line="21" Column="66" />
+      <File FileName="Assets/scripts/playerCollision.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Arcade" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="scripts" expanded="True">
+                <Node name="playerCollision.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
